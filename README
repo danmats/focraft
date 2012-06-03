@@ -1,0 +1,12 @@
+README for focraft git-hub repository
+-------------------------------------
+
+author: Dan Matsuoka
+contact: matsuoka@eng.utah.edu
+
+
+This is a simple attempt at an isometric (2.5D) engine. It is
+written in C++, using the SDL (Simple DirectMedia Layer,
+www.libsdl.org; version 1.2) libraries.
+So far, all it does is generate a tiled landscape that can be
+moved around the viewing window by grabbing via ctrl-clicking.
